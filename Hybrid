@@ -1,0 +1,7 @@
+hybrid :
+1. A hybrid topology is a combination of different topologies to form a resulting
+topology.
+2. If star topology is connected with another star topology, then it remains a star
+topology. If star topology is connected with different topology, then it becomes a
+Hybrid topology.
+3. It provides flexibility as it can be implemented in a different network environment.
