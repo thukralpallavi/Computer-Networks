@@ -1,0 +1,13 @@
+m 
+1. Mesh topology is a network topology in which all the nodes are individually
+connected to other nodes.
+2. It does not need any central switch or hub to control the connectivity among the
+nodes.
+3. Mesh topology is categorized into two parts: Fully connected mesh topology:
+In this topology, all the nodes are connected to each other. Partially connected
+mesh topology: In this topology, all the nodes are not connected to each other.
+4. It is robust as a failure in one cable will only disconnect the specified computer
+connected to this cable.
+5. Mesh topology is rarely used as installation and configuration are difficult when
+connectivity gets more.
+6. Cabling cost is high as it requires bulk wiring.
