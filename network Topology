@@ -1,0 +1,15 @@
+network topology specifies the layout of a computer network. It
+shows how devices and cables are connected to each other.
+
+Network topology specifies the layout of a computer network. It
+shows how devices and cables are connected to each other.
+
+Star :
+● Star topology is a network topology in which all the nodes are connected
+to a single device known as a central device.
+● Star topology requires more cable compared to other topologies.
+Therefore, it is more robust as a failure in one cable will only disconnect a
+specific computer connected to this cable.
+● If the central device is damaged, then the whole network fails.
+● Star topology is very easy to install, manage and troubleshoot. It is
+commonly used in office and home networks.
