@@ -1,0 +1,8 @@
+b : Bus :
+1. Bus topology is a network topology in which all the nodes are connected to a
+single cable known as a central cable or bus.
+2. It acts as a shared communication medium, i.e., if any device wants to send the
+data to other devices, then it will send the data over the bus which in turn sends
+the data to all the attached devices.
+3. Bus topology is useful for a small number of devices.
+4. As if the bus is damaged then the whole network fails.
